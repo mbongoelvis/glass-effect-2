@@ -1,0 +1,109 @@
+[
+     {
+    "image": "./images/bg-3.jpg",
+    "name": "John Doe",
+    "activeTime": "2 hours ago",
+    "postDescription": "Had an amazing time at the beach today. The weather was perfect, and the water was crystal clear. Can't wait to go back again soon!",
+    "postImage": "./images/bg-2.jpg",
+    "likes": 10,
+    "comments": 5
+  },
+  {
+    "image": "./images/notifications_FILL0_wght400_GRAD0_opsz24.png",
+    "name": "Jane Smith",
+    "activeTime": "1 day ago",
+    "postDescription": "Spent the afternoon hiking in the mountains. The views were breathtaking, and the fresh air was rejuvenating. Nature is truly incredible!",
+    "postImage": "post2.jpg",
+    "likes": 15,
+    "comments": 3
+  },
+  {
+    "image": "./images/godofwar.webp",
+    "name": "Mike Johnson",
+    "activeTime": "1 week ago",
+    "postDescription": "Visited a charming little cafe in the city today. The coffee was delicious, and the atmosphere was cozy. Highly recommend it!",
+    "postImage": "./images/pexels-tiger-lily-4484045.jpg",
+    "likes": 20,
+    "comments": 8
+  },
+  {
+    "image": "./images/mateusz-delegacz-1Ah8CAwk3vM-unsplash.jpg",
+    "name": "Emily Brown",
+    "activeTime": "4 hours ago",
+    "postDescription": "Just finished reading an amazing book. The story was captivating, and I couldn't put it down. Any book recommendations?",
+    "postImage": "post4.jpg",
+    "likes": 8,
+    "comments": 2
+  },
+  {
+    "image": "./images/pexels-tiger-lily-4484151.jpg",
+    "name": "Alex Thompson",
+    "activeTime": "1 week ago",
+    "postDescription": "Spent the weekend volunteering at a local shelter. It was a humbling experience, and I'm grateful for the opportunity to help others.",
+    "postImage": "./images/status3.jpg",
+    "likes": 12,
+    "comments": 4
+  },
+  {
+    "image": "./images/status2.jpg",
+    "name": "Sarah Wilson",
+    "activeTime": "3 days ago",
+    "postDescription": "Had a fun day exploring the city's street art. The artwork was vibrant and unique. There's so much creativity around every corner!",
+    "postImage": "./images/cod.jpeg",
+    "likes": 18,
+    "comments": 6
+  },
+  {
+    "image": "./images/status3.jpg",
+    "name": "Michael Davis",
+    "activeTime": "5 hours ago",
+    "postDescription": "Tried a new recipe today, and it turned out delicious! Cooking is such a therapeutic activity for me. Who else enjoys cooking?",
+    "postImage": "post7.jpg",
+    "likes": 25,
+    "comments": 10
+  },
+  {
+    "image": "./images/status1.jpg",
+    "name": "Emma Martinez",
+    "activeTime": "2 days ago",
+    "postDescription": "Took a long walk in the park today. It was refreshing to be surrounded by nature and listen to the birds chirping. Nature always brings me peace.",
+    "postImage": "./images/contact4.jpg",
+    "likes": 16,
+    "comments": 3
+  },
+  {
+    "image": "./images/status2.jpg",
+    "name": "Daniel Wilson",
+    "activeTime": "1 week ago",
+    "postDescription": "Attended an exciting concert last night. The energy in the crowd was electrifying. Music has a way of bringing people together.",
+    "postImage": "post9.jpg",
+    "likes": 30,
+    "comments": 12
+  },
+  {
+    "image": "./images/figma.png",
+    "name": "Olivia Adams",
+    "activeTime": "6 hours ago",
+    "postDescription": "Explored a new hiking trail today. The scenery was breathtaking, and the hike was challenging but rewarding. Can't wait for my next adventure!",
+    "postImage": "./images/birthday.avif",
+    "likes": 14,
+    "comments": 5
+  },
+  {
+    "image": "./images/woman2.jpg",
+    "name": "William Turner",
+    "activeTime": "3 days ago",
+    "postDescription": "Spent the evening watching a beautiful sunset by the beach. The colors were mesmerizing, and it reminded me of the beauty in simple moments.",
+    "postImage": "./images/bg-3.jpg",
+    "likes": 22,
+    "comments": 7
+  },
+  {
+    "image": "./images/Untitled.png",
+    "name": "Sophia Garcia",
+"activeTime": "1 day ago",
+    "postDescription": "Had a great time exploring a new museum today. The exhibits were fascinating, and I learned so much about art and history.",
+    "postImage": "./images/godofwar.webp",
+    "likes": 19,
+    "comments": 9
+  }]
